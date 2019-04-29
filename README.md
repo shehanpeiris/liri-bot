@@ -5,4 +5,4 @@ There are three commands you can use with LIRI:
 
 1) 
 
-![Concert-this](/concert.png)
+![Concert-this](/concert.png =200x100)
